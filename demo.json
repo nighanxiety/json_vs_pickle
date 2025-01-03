@@ -1,0 +1,8 @@
+{
+    "Foo": 0,
+    "Baz": "Test",
+    "Bar": [6, 32, 85, "Apple"],
+    "100": {"A": 1, "2": "b", "3": "d", "4": "H"},
+    "true": false,
+    "(1, 2, 3)": "Complex Key must be made a string in advance"
+}
